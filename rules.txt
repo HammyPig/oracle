@@ -1,0 +1,37 @@
+Players start off with 5 cards.
+Each player starts with one army.
+Players start with 5 health.
+
+After each turn, the player must pick up cards until they have 5
+
+Players
+King: Kill all threats (Usurper, Demon Lord and Cultist).
+Knight: Win if the king wins (Help kill Usurper, Demon Lord and Cultist).
+Usurper: Kill the king (Before the Cultist and Demon Lord).
+Demon Lord: Kill all other players.
+Cultist: Kill the king and knights (Before the Usurper and Demon Lord).
+
+
+Cards
+Attack: Attack another player
+Defend: Defend against another player's attack (can be used on a fellow player)
+Siege: Remove a building from play.
+Corrupt: Steal an army from another player.
+Occupy (Capture?): Steal a building from play.
+
+Army: Increase your attack limit by 1.
+
+Spells:
+Blackhole: Remove all armies and buildings from play. Discard your hand.
+Time warp: All players discard their cards, each player draw 5. Discard all your buildings.
+Counterspell: Disable the effect of one spell played. Discard when used.
+Bloodmagic: Gain 2 armies for this turn only. Remove 2 health. If you are not dead by next turn, gain 2 health.
+
+Buildings:
+Farm: Increase your max hand size by 1.
+Wizards Tower: All players are able to use spells.
+Village: Gain 1 life
+
+
+Potential ideas:
+Can have buildings and people as two classes of buffs.
