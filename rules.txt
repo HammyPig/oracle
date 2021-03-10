@@ -1,4 +1,4 @@
-Oracle (rip Blind Kings)
+Oracle (rip Blind Kings) 100 cards
 
 AT THE START:
 Players start off with 5 cards each.
@@ -21,33 +21,38 @@ Cultist: Kill the king and knights (Before the Usurper and Demon Lord).
 
 Basic Cards
 Basic Cards must be discarded when used.
-Attack: Attack another player. Recycle this card when used.
-Defend: Defend against another player's attack (can be used on a fellow player)
-Siege: Remove a building from play.
-Corrupt: Steal an army from another player.
-Occupy (Capture?): Steal a building from play.
-Archer?: 
-Oracle: Draw 2 cards. Recycle them at the end of your turn if they are not used.
+20 Attack: Attack another player. Recycle this card when used.
+10 Defend: Defend against another player's attack (can be used on a fellow player)
+5 Siege: Discard a building from play.
+5 Corrupt: Steal an army from another player.
+5 Occupy (Capture?): Steal a building from play.
+3 Archer: Attack another player. Doesn't require an army. Cannot be defended from. 
+3 Goody bag: Draw 2 cards. Recycle them at the end of your turn if they are not used.
+3 (Blind) Exchange: Switch hands with another player of your choice.
+2 Esponiange: Force a player to reveal their hand to you. 
 
-Army: Increase your attack limit by 1.
+10 Army: Increase your attack limit by 1.
 
-Arcane Spells
+(Arcane) Spells
 Can only be used if ANY player owns a wizard tower. Arcabe Spells must be discarded when used.
-Blackhole: Discard all player armies and buildings from play. Discard your hand.
-Time warp: All players recycle their cards, each player draws 5. Discard all your buildings.
-Counterspell: Disable the effect of a spell played.
-Bloodmagic: Gain 2 armies for this turn only. Remove 2 health. Heal 2 health at the start of your next turn if you are not dead.
-Earthquake: Every player must move their cards in play to the person on the left. The person who casts this spell chooses how many times this occurs.
-
-Lifesteal: Discard any player's army from play. Heal yourself by 1 health.
+1 Blackhole: Discard all player armies and buildings from play. Discard your hand.
+1 Time warp: All players recycle their cards, each player draws 5. Discard all your buildings.
+1 Resurrect: Choose ANY player to return to full health. Remove 2 health.
+2 Counterspell: Disable the effect of a spell played.
+2 Bloodmagic: Gain 2 armies for this turn only. Remove 2 health. Heal 2 health at the start of your next turn if you are not dead.
+2 Earthquake: Every player must move their cards in play to the person on the left. The person who casts this spell chooses how many times this occurs.
+3 Lifesteal: Discard any player's army from play. Heal yourself by 1 health.
+3 Exemption: You are invulernable to attack cards until your next turn.
 
 Buildings
 When used, place this card upwards such that everyone can see them in front of you. This means that the card is in PLAY. When in play, these cards will give you a passive buff. These will last until they are removed somehow.
-Farm: Increase your max hand size by 1.
-Wizards Tower: All players are able to use arcane spells.
-Village: Gain 1 life
 
-Oracle: (collect all buildings before play? or be placed at the bottom of the deck at the start?) Reveal all player identities.
+3 Farm: Increase your max hand size by 1.
+2 Spell Tower: All players are able to use arcane spells. Recycle this card if removed.
+3 Village: Gain 1 life
+
+1 Oracle: (collect all buildings before play? or be placed at the bottom of the deck at the start?) Reveal all player identities.
 
 Potential ideas:
 Can have buildings and people as two classes of buffs.
+Elements
