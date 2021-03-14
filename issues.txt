@@ -1,0 +1,108 @@
+Potential buffs for players
+
+	Players use
+
+		Cards - Farm
+		Health - Walls
+		Other players
+			Cards - ?
+			Motives - ?
+		Attack - Army (Garrison?)
+		Defend - Same as walls
+
+Picking up cards, beginning or end of turn?
+
+	For Beginning:
+		Beginning, more intuitive
+		If you use defend cards, you seem 'limited' at your turn as you have less cards.
+
+	For end:
+		You have the whole round to think about what you are going to play next turn.
+
+	Pickup at both beginning and end
+		?
+
+	Things to consider:
+		IF ALL PLAYERS PICKUP AT THE END OF THEIR TURN:
+		People can't guess what is in your hand, because you always have 5 cards.
+		Exchanges seem better as everyone has 5 cards to exchange
+
+Spell Tower (Spelltower?) yes or no
+
+	Yes
+		Fun to unlock something new
+		Better for strategy somehow
+
+	No
+		Once you get it, all the other spell tower cards are useless.
+			Give spell towers another buff?
+				Spell tower owner can use 2, everyone else uses 1
+		
+		Freezes spell cards
+
+
+Feeling 'stuck' with cards
+
+	Trading cards for something ???
+		Trade attack cards for spell cards.
+
+	Increase the amount of spell towers.
+
+	You can 'recycle' cards at the end of your turn.
+		Concerns
+			Deck needs to be reshuffled
+				Why?
+					People will know what cards will be next
+						How will people know what the next 50 cards are?
+						How will people know which card each player put down?
+							"I have so many spell cards"
+								What if they are lying, or are they just an idiot
+						They put the same cards down in that order
+							What if the next player picks up the cards in that order
+								Why is that bad?
+									Assuming the person who put down the cards meant that their cards were bad
+										What makes the cards bad
+											Why do you wanna reshuffle the cards?
+												You were not able to use them at the time
+													When the next player picks up your cards, they will be able to use them
+														Why? Spell towers are always available
+															What if a player doesnt want to put down a spell tower
+																Why would they do that
+																	Because they know the other player has a spell and doesnt want them to use it
+
+
+	Combine army and buildings into one
+	Yes
+		Simplifies
+		More intuitive
+	Name for army:
+		Retain army
+		Change to garrison
+	
+	Solution:
+	Army is now classed as a building:
+		No longer:
+			Corrupt: Steal an army from play
+			Lifesteal: Destroy an army, heal yourself by 1
+	Increase building count
+
+	Decrease number of cards related to buildings
+
+
+Change name of castle to wall
+	Yes
+		Wall seems more intuitive to me
+	No
+		Its like when you castle a king
+
+
+
+
+
+
+Maximum amount of cards in hand
+	Needs to be odd number
+	5 because 7 is too much
+
+
+Word for reshuffle
