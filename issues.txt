@@ -106,3 +106,6 @@ Maximum amount of cards in hand
 
 
 Word for reshuffle
+
+
+Archer - renaming thoughts?
