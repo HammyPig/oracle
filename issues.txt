@@ -1,3 +1,12 @@
+Experimental features:
+	- Picking up cards at the end, start or both.
+	- Armies as buildings instead of separate entities.
+	- Reshuffling 
+	- Rename occupy -> capture
+	- Rename siege - options: pillage, ransack, conquer, raze, plunder, destroy, decimate
+	- Rename army - options: legion, garrison, encampment, barracks
+	- Rename walls - options: castle, fortress
+
 Potential buffs for players
 
 	Players use
@@ -26,6 +35,24 @@ Picking up cards, beginning or end of turn?
 		IF ALL PLAYERS PICKUP AT THE END OF THEIR TURN:
 		People can't guess what is in your hand, because you always have 5 cards.
 		Exchanges seem better as everyone has 5 cards to exchange
+
+Hand with redundant cards
+	
+	- You can choose to reshuffle, but you have to discard your entire hand.
+		Yes 
+			-Because you have to make a 'choice' whether to sacrifice your entire hand for a new unknown hand (that may be better or worse).
+			-Adds more strategical thinking.
+		No
+			-Adds more rules - overcomplicates.
+				-Solution - Quote the rule, without 'explaining' it.
+		
+	- You can choose to put down the cards, you don't want.
+		Yes
+			- Add more strategical thinking.
+				How? Because it reveals something to the other players about hand (for example, if a certain player is refusing to put down certain cards.
+					Redundant because you can still achieve the same goal with the previous solution, if a person refuses to reshuffle their hand,
+					regardless of not being able to make any immediate plays.
+	In summary, it's flexibility vs strategy. The strategy is that is it worth keeping a good card or should you free your hand?
 
 Spell Tower (Spelltower?) yes or no
 
@@ -83,10 +110,20 @@ Feeling 'stuck' with cards
 	Army is now classed as a building:
 		No longer:
 			Corrupt: Steal an army from play
-			Lifesteal: Destroy an army, heal yourself by 1
 	Increase building count
+		Yes
+			Building are fun to use
+		No
+			Complicates by making the game harder to track - Potential solutions:
+				- Limits player to one of each type of building
+					Yes
+						Makes it so that the game is easier to follow
+					No
+						Makes the game less enjoyable by restricting player's abilities
 
 	Decrease number of cards related to buildings
+	
+	Make 'army' things related to armies only: for example, lifesteal.
 
 
 Change name of castle to wall
@@ -106,3 +143,7 @@ Maximum amount of cards in hand
 
 
 Word for reshuffle
+	- resuffle stays reshuffle
+
+Defend cards can defend from any attack
+	- a stupid thing to create an issue
