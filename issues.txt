@@ -49,6 +49,7 @@ Feeling 'stuck' with cards
 	Increase the amount of spell towers.
 
 	You can 'recycle' cards at the end of your turn.
+		Feels gross and confusing
 		Concerns
 			Deck needs to be reshuffled
 				Why?
