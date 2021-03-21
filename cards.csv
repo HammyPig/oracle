@@ -1,36 +1,31 @@
-No.,Card Name
-96,Total Cards
-,
-,Basic Cards: Must be discarded when used.
-25,Attack: Attack another player. Recycle this card when used.
-10,Defend: Defend against another player's attack (can be used on a fellow player)
-5,Siege: Discard a building from play.
-5,Corrupt: Steal an army from another player.
-4,Occupy (Capture?): Steal a building from play.
-3,Archer: Attack another player. Doesn't require an army. Cannot be defended from.
-3,Goody bag: Draw 2 cards. Recycle them at the end of your turn if they are not used.
-3,(Blind) Exchange: Switch hands with another player of your choice.
-2,Esponiange: Force a player to reveal their hand to you.
-2,Sabotage: Choose a player. They cannot pick up cards next turn.
-10,Army: Increase your attack limit by 1.
-,
-,(Arcane) Spells: Can only be used if ANY player owns a wizard tower. Arcabe Spells must be discarded when used.
-1,Blackhole: Discard all player armies and buildings from play. Discard your hand.
-1,"Time warp: All players recycle their cards, each player draws 5. Discard all your buildings."
-1,Resurrect: Choose ANY player to return to full health. Remove 2 health.
-2,Counterspell: Disable the effect of a spell played.
-2,Bloodmagic: Gain 2 armies for this turn only. Remove 2 health. Heal 2 health at the start of your next turn if you are not dead.
-2,Earthquake: Every player must move their cards in play to the person on the left. The person who casts this spell chooses how many times this occurs.
-3,Lifesteal: Discard any player's army from play. Heal yourself by 1 health.
-3,Exemption: You are invulernable to attack cards until your next turn.
-,
-,"Buildings: When used, place this card upwards such that everyone can see them in front of you. This means that the card is in PLAY. When in play, these cards will give you a passive buff. These will last until they are removed somehow."
-3,Farm: Increase your max hand size by 1.
-3,Castle (Wall): Discared when you are attacked. You do not lose a life.
-2,Spell Tower: All players are able to use arcane spells. Recycle this card if removed.
-,
-1,Oracle: (collect all buildings before play? or be placed at the bottom of the deck at the start?) Reveal all player identities.
-,
-Potential ideas:,
-Can have buildings and people as two classes of buffs.,
-Elements,
+95,Total Cards,
+,,
+,,
+Count,Name,Description
+65,Basic Cards,Use this card on any player (including yourself).
+25,Attack,Attack another player. You can attack anyone any number of times until you reach your attack limit.
+10,Defend,Defend against another player's basic card (you may also use defend on another player at ANY time).
+8,Destroy,Discard any player's building.
+6,Capture,Steal a building from another player.
+6,Goody bag,Draw 2 cards.
+3,Assassinate,Attack another player. You do not use an army.
+2,Heist,Switch hands with another player of your choice.
+2,Spy,Force a player to reveal their hand to you.
+2,Sabotage,Choose a player. Remove 2 cards from their hand.
+1,MEGA Goody Bag,Draw 5 cards.
+,,
+,,
+25,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
+10,Army,Increase your attack limit by 1.
+5,Farm,Pick up +1 card at the end of your turn.
+5,Fortress,Discard when you are attacked. You do not lose a life.
+5,Spell Tower,All players are able to use spells. Increase your attack limit by 1.
+,,
+4,Spells,Can only be used if ANY player owns a spell tower.
+1,Blackhole,Destroy all player buildings.
+1,Resurrect,Choose a player to return to full health. Remove 2 health.
+1,Counterspell,Disable the effect of ANY card played at ANY moment.
+1,Exemption,You cannot be targeted until after your next turn.
+,,
+,,
+1,Oracle,This must be the last card in the deck. Reveal all player identities.
