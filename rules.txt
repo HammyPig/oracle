@@ -1,23 +1,23 @@
-Oracle (rip Blind Kings) 100 cards
+Oracle
 
 AT THE START:
-Each player is handed a role at random. No one knows eachother's role.
-The Crown reveals themself.
-Players start off with 5 cards each.
-Each player starts with ONE army in PLAY.
-Players start with 5 health.
-Shuffle and pile the cards into the centre for players to pickup from.
-Whenever a card is discarded, it must go into a trash pile and cannot be used for the rest of the game.
-If a card is recycled, place it at the bottom of the pickup pile.
+Each player is handed a role at random. No one knows each other's role.
+Shuffle and pile the cards into the centre for players to pick up from.
+Players start with 5 health and 5 cards each.
+The Crown reveals themself and wears the party hat. The Crown takes the first turn.
 
 EVERY TURN:
-After each turn, the player must pick up cards until they have 5 cards.
-Players may use any number of cards on any player, unless said otherwise.
-Players take turns clockwise
+You can never show your role to another player. This does not stop you from lying about your role.
+During their turn, players may use any number of cards on any player unless said otherwise. By default, you can use ATTACK only once per turn.
+Whenever a card is used or discarded, it must go into a trash pile and cannot be used for the rest of the game.
+If a card is reshuffled, place it next to the pickup pile. This will become the new pickup pile once all other cards have been used.
+After each turn, the player must pick up cards until they have (by default) 5 cards.
+Players take turns clockwise.
+When a player dies, they must reveal their role to all other players.
 
-MIN. PLAYERS	ROLES
-2		The Crown: Kill all threats (Usurper, Demon Lord and Cultist).
-2		Usurper: Kill the king (Before the Cultist and Demon Lord).
-3		Knight: Win if the king wins (Help kill Usurper, Demon Lord and Cultist).
-4		Demon Lord: Kill all other players.
-5		Cultist: Kill the king and knights (Before the Usurper and Demon Lord).
+PLAYERS		ROLES		WIN CON.
+2		The Crown	Kill all threats (Usurper, Demon Lord and Cultist).
+2		Usurper		Kill The Crown (Before the Cultist and Demon Lord).
+3		Knight		Win if the king wins (Help kill the Usurper, Demon Lord and Cultist).
+4		Demon Lord	Kill all other players.
+5		Cultist		Kill the king and knights (Before the Usurper and Demon Lord).
