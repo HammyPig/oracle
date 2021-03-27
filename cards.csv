@@ -3,15 +3,15 @@
 ,,
 Count,Name,Description
 65,Basic Cards,Use this card on any player (including yourself).
-25,Attack,Attack another player. You can attack anyone any number of times until you reach your attack limit.
-10,Defend,Defend against another player's basic card (you may also use defend on another player at ANY time).
+25,Attack,Deal 1 damage to a player. You can attack anyone any number of times until you reach your attack limit.
+10,Defend,Block a player's offensive card (red text). You may also use defend on any player at ANY time.
 8,Destroy,Discard any player's building.
-6,Capture,Steal a building from another player.
-6,Goody bag,Draw 2 cards.
-3,Assassinate,Attack another player. You do not use an army.
-2,Heist,Switch hands with another player of your choice.
-2,Spy,Force a player to reveal their hand to you.
-2,Sabotage,Choose a player. Remove 2 cards from their hand.
+6,Capture,Steal a player's building
+6,Goody bag,Draw 3 cards.
+3,Assassinate,Damage another player. This does not use an attack.
+2,Heist,Switch hands with another player.
+2,Spy,Reveal a player's hand ONLY to you.
+2,Sabotage,Remove 2 cards from a player's hand
 1,MEGA Goody Bag,Draw 5 cards.
 ,,
 ,,
@@ -28,4 +28,4 @@ Count,Name,Description
 1,Exemption,You cannot be targeted until after your next turn.
 ,,
 ,,
-1,Oracle,This must be the last card in the deck. Reveal all player identities.
+1,Oracle,This must be the last card in the deck. Reveal all player roles.
