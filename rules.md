@@ -10,7 +10,7 @@ You may use a DEFEND card to block an offensive card played on ANYONE, even if i
 
 An ATTACK card is the most common offensive card, but these are limited to being used once per turn. You can increase your attack limit through owning buildings.
 
-Buildings are a type of card in BLACK TEXT, which when placed in front of you, will give you a buff until removed by some card.
+Buildings are a type of card (black text), which when placed in front of you, will give you a buff until removed by some card.
 
 You may use all cards (excluding ATTACK) any number of times on any player during your turn. After your turn, you must pick up until you have 5 cards.
 
@@ -39,18 +39,3 @@ The Crown takes the first turn. Turns are taken clockwise.
 | 3 | Knight | Protect The Crown. Win if The Crown wins (even if you are dead).
 | 4 | Demon Lord | All other players are killed.
 | 5 | Cultist | The Crown and Knight are killed.
-
-<br>
-
-## Legacy Rules
-
-- You can never show your role card to another player. This does not stop you from lying.
-- You are limited to using one ATTACK card per turn. You may increase this limit through buildings.
-- Buildings are a type of card which when played will give you a buff every turn. Buildings can be removed by using DESTROY or CAPTURE cards.
-- You may use DEFEND cards to block an offensive card (red text) played on ANYONE, even if it is not your turn.
-- For all other cards, during your turn, you may use any number of cards on any player.
-- Whenever a card is used or discarded, it must go into a trash pile and cannot be used for the rest of the game.
-- After each turn, the player must pick up cards until they have 5 cards. This can be increased through buildings.
-- Players take turns clockwise.
-- When a player dies, they MUST reveal their role to all other players.
-- When a player believes they have fulfilled their win condition, they can reveal their role card to win the game.
