@@ -1,31 +1,31 @@
-95,Total Cards,
+90,Total Cards,
 ,,
 ,,
 Count,Name,Description
 65,Basic Cards,Use this card on any player (including yourself).
-25,Attack,Deal 1 damage to a player. You can attack anyone any number of times until you reach your attack limit.
-10,Defend,Block a player's offensive card (red text). You may also use defend on any player at ANY time.
-8,Destroy,Discard any player's building.
+25,Attack,Deal 1 damage to a player.
+10,Defend,Block a player's offensive card. You may also use this for any other player at ANY time.
+8,Destroy,Discard all of a player's buildings.
 6,Capture,Steal a player's building
 6,Goody bag,Draw 3 cards.
 3,Assassinate,Damage another player. This does not use an attack.
-2,Heist,Switch hands with another player.
+2,Heist,Switch hands with a player.
 2,Spy,Reveal a player's hand ONLY to you.
-2,Sabotage,Remove 2 cards from a player's hand
+2,Sabotage,Discard 2 cards from a player's hand
 1,MEGA Goody Bag,Draw 5 cards.
 ,,
 ,,
-25,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
-10,Army,Increase your attack limit by 1.
+20,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
+5,Barracks,Increase your attack limit by 1.
 5,Farm,Pick up +1 card at the end of your turn.
-5,Fortress,Discard when you are attacked. You do not lose a life.
-5,Spell Tower,All players are able to use spells. Increase your attack limit by 1.
+5,Fortress,Discard when you are damaged. You do not lose a life.
+5,Spell Tower,All players can use spells. Increase your attack limit by 1.
 ,,
-4,Spells,Can only be used if ANY player owns a spell tower.
+4,Spells,Any player MUST own a Spell Tower.
 1,Blackhole,Destroy all player buildings.
-1,Resurrect,Choose a player to return to full health. Remove 2 health.
-1,Counterspell,Disable the effect of ANY card played at ANY moment.
-1,Exemption,You cannot be targeted until after your next turn.
+1,Blood Magic,Switch health with another player.
+1,Counterspell,Block ANY card played at ANY time.
+1,Barrier,You cannot be targeted until your next turn.
 ,,
 ,,
 1,Oracle,This must be the last card in the deck. Reveal all player roles.
