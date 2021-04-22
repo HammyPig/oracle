@@ -18,7 +18,7 @@ You may use all cards (excluding ATTACK) any number of times on any player durin
 
 ## Setting Up
 
-Each player is handed a health bar card and a their role card at random.
+Each player is handed a health bar card and their role card at random.
 
 Shuffle and pile the rest of the cards into the centre for players to pick up from.
 
