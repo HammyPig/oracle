@@ -7,19 +7,19 @@ Count,Name,Description
 10,Defend,Block a player's offensive card. You may also use this for any other player at ANY time.
 8,Destroy,Discard all of a player's buildings.
 6,Capture,Steal a player's building
-6,Goody bag,Draw 3 cards.
+6,Goody bag,Draw 2 cards.
 3,Assassinate,Damage another player. This does not use an attack.
 2,Heist,Switch hands with a player.
 2,Spy,Reveal a player's hand ONLY to you.
 2,Sabotage,Discard 2 cards from a player's hand
-1,MEGA Goody Bag,Draw 5 cards.
+1,MEGA Goody Bag,Draw 3 cards.
 ,,
 ,,
 20,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
 5,Barracks,Increase your attack limit by 1.
 5,Farm,Pick up +1 card at the end of your turn.
 5,Fortress,Discard when you are damaged. You do not lose a life.
-5,Spell Tower,All players can use spells. Increase your attack limit by 1.
+5,Spell Tower,All players can use spells. Increase your ATTACK damage by 1.
 ,,
 4,Spells,Any player MUST own a Spell Tower.
 1,Blackhole,Destroy all player buildings.
@@ -28,4 +28,4 @@ Count,Name,Description
 1,Barrier,You cannot be targeted until your next turn.
 ,,
 ,,
-1,Oracle,This must be the last card in the deck. Reveal all player roles.
+1,Oracle,This must be the last card in the deck. Reveal all player roles. All Players take 1 damage.
