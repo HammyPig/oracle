@@ -1,25 +1,25 @@
-90,Total Cards,
+57,Total Cards,
 ,,
 ,,
 Count,Name,Description
-65,Basic Cards,Use this card on any player (including yourself).
-25,Attack,Deal 1 damage to a player.
+40,Basic Cards,Use this card on any player (including yourself).
+15,Attack,Deal 1 damage to a player.
 10,Defend,Block a player's offensive card. You may also use this for any other player at ANY time.
-8,Destroy,Discard all of a player's buildings.
-6,Capture,Steal a player's building
-6,Goody bag,Draw 2 cards.
-3,Assassinate,Damage another player. This does not use an attack.
-2,Heist,Switch hands with a player.
-2,Spy,Reveal a player's hand ONLY to you.
-2,Sabotage,Discard 2 cards from a player's hand
+4,Destroy,Discard all of a player's buildings.
+3,Capture,Steal a player's building
+2,Goody bag,Draw 2 cards.
+2,Assassinate,Damage another player. This does not use an attack.
+1,Heist,Switch hands with a player.
+1,Spy,Reveal a player's hand ONLY to you.
+1,Sabotage,Discard 2 cards from a player's hand
 1,MEGA Goody Bag,Draw 3 cards.
 ,,
 ,,
-20,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
-5,Barracks,Increase your attack limit by 1.
-5,Farm,Pick up +1 card at the end of your turn.
-5,Fortress,Choose to discard when damaged. You do not lose health.
-5,Spell Tower,ALL players can use spells. Increase your ATTACK damage by 1.
+12,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
+3,Barracks,Increase your ATTACK limit by 1.
+3,Farm,Pick up +1 card at the end of your turn.
+3,Fortress,Choose to discard when damaged. You do not lose health.
+3,Spell Tower,ALL players can use spells. Increase your ATTACK damage by 1.
 ,,
 4,Spells,ANY player must own a Spell Tower.
 1,Blackhole,ANY player must own a Spell Tower. Destroy all player buildings.
