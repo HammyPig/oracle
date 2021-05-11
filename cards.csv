@@ -18,14 +18,14 @@ Count,Name,Description
 20,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
 5,Barracks,Increase your attack limit by 1.
 5,Farm,Pick up +1 card at the end of your turn.
-5,Fortress,Discard when you are damaged. You do not lose a life.
-5,Spell Tower,All players can use spells. Increase your ATTACK damage by 1.
+5,Fortress,Choose to discard when damaged. You do not lose health.
+5,Spell Tower,ALL players can use spells. Increase your ATTACK damage by 1.
 ,,
-4,Spells,Any player MUST own a Spell Tower.
-1,Blackhole,Destroy all player buildings.
-1,Blood Magic,Switch health with another player.
-1,Counterspell,Block ANY card played at ANY time.
-1,Barrier,You cannot be targeted until your next turn.
+4,Spells,ANY player must own a Spell Tower.
+1,Blackhole,ANY player must own a Spell Tower. Destroy all player buildings.
+1,Blood Magic,ANY player must own a Spell Tower. Switch health with another player.
+1,Counterspell,ANY player must own a Spell Tower. Block ANY card played at ANY time.
+1,Barrier,ANY player must own a Spell Tower. You cannot be targeted until your next turn.
 ,,
 ,,
 1,Oracle,This must be the last card in the deck. Reveal all player roles.
