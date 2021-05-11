@@ -36,6 +36,6 @@ The Crown takes the first turn. Turns are taken clockwise.
 |---------|-------|---------------|
 | 2 | The Crown | All who oppose you are killed.
 | 2 | Usurper | The Crown is killed.
-| 3 | Knight | Protect The Crown. Win if The Crown wins (even if you are dead).
-| 4 | Demon Lord | All other players are killed.
+| 3 | Demon Lord | All other players are killed.
+| 4 | Knight | Protect The Crown. Win if The Crown wins (even if you are dead).
 | 5 | Cultist | The Crown and Knight are killed.
