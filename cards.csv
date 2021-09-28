@@ -18,3 +18,8 @@ Blood Magic,1,spell,ANY player must own a SPELL TOWER. Switch health with anothe
 Counterspell,1,spell,ANY player must own a SPELL TOWER. Block ANY card played at ANY time.
 Barrier,1,spell,ANY player must own a SPELL TOWER. You cannot be targeted until your next turn.
 Oracle,1,oracle,This must be the last card in the deck. Reveal all player roles.
+The Crown,1,role,Survive until all who oppose you are killed.
+Usurper,1,role,The Crown is killed.
+Demon Lord,1,role,All players are killed.
+Knight,1,role,Protect The Crown. Win if The Crown wins (even if you are dead).
+Cultist,1,role,The Crown and Knight are killed.
