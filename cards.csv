@@ -16,8 +16,8 @@ Count,Name,Description
 ,,
 ,,
 12,Buildings,"When used, place this card upwards in front of you for everyone to see. These cards will give you a passive buff until removed."
-3,Barracks,Increase your attack limit by 1.
-3,Farm,Increase your hand size by 1.
+4,Barracks,Increase your attack limit by 1.
+2,Farm,Increase your hand size by 1.
 3,Fort,Choose to discard when damaged and you do not lose health.
 3,Spell Tower,ALL players can use spells. Increase your ATTACK damage by 1.
 ,,
