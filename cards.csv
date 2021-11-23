@@ -3,8 +3,8 @@ Attack,15,offensive,Deal 1 damage to a player.
 Destroy,4,offensive,Remove all of a player's buildings of a single type.
 Capture,3,offensive,Steal another player's building.
 Assassinate,2,offensive,Damage another player. This does not use an attack.
-Heist,1,offensive,Switch hands with a player.
-Sabotage,1,offensive,Discard 2 cards from a player's hand
+Heist,1,offensive,Switch hands with another player.
+Sabotage,1,offensive,Discard 2 cards from a player's hand.
 Spy,1,offensive,Reveal a player's hand ONLY to you.
 Defend,10,utility,Block a player's offensive card. You may also use this for any other player at ANY time.
 Goody bag,2,utility,Draw 2 cards. Ignore hand size.
