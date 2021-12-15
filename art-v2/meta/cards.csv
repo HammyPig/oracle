@@ -9,9 +9,9 @@ Spy,1,offensive,Reveal a player's hand ONLY to you.
 Defend,10,utility,Block a player's offensive card. You may also use this for any other player at ANY time.
 Goody Bag+,2,utility,Draw 2 cards. Ignore hand size.
 Goody Bag+,1,utility,Draw 3 cards. Ignore hand size.
-Barracks,5,building,Increase your attack limit by 1.
+Barracks,4,building,Increase your attack limit by 1.
 Spell Tower,3,building,ALL players can use spells. Increase your ATTACK damage by 1.
-Farm,2,building,Increase your hand size by 1.
+Farm,3,building,Increase your hand size by 1.
 Fort,2,building,Choose to discard when damaged and you do not lose health.
 Black Hole,1,spell,ANY player must own a SPELL TOWER. Destroy all player buildings.
 Blood Magic,1,spell,ANY player must own a SPELL TOWER. Switch health with another player.
