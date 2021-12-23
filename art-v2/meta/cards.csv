@@ -1,22 +1,22 @@
 name,count,type,description
 Attack,15,offensive,Deal 1 damage to a player.
-Destroy,4,offensive,Remove all of a player's buildings of a single type.
+Destroy,4,offensive,Pick a building. Remove ALL of them from a player.
 Capture,3,offensive,Steal another player's building.
-Backstab,2,offensive,Damage another player. This does not use an attack.
+Backstab,2,offensive,Deal 1 damage to a player. Ignore attack limit.
 Heist,1,offensive,Switch hands with another player.
 Sabotage,1,offensive,Discard 2 cards from a player's hand.
-Spy,1,offensive,Reveal a player's hand ONLY to you.
-Defend,10,utility,Block a player's offensive card. You may also use this for any other player at ANY time.
+Spy,1,offensive,Reveal another player's hand ONLY to you.
+Defend,10,utility,Block an offensive card. You can use this even if you're not the target.
 Goody Bag+,2,utility,Draw 2 cards. Ignore hand size.
 Goody Bag+,1,utility,Draw 3 cards. Ignore hand size.
 Barracks,4,building,Increase your attack limit by 1.
 Spell Tower,3,building,ALL players can use spells. Increase your ATTACK damage by 1.
 Farm,3,building,Increase your hand size by 1.
-Fort,2,building,Choose to discard when damaged and you do not lose health.
-Black Hole,1,spell,ANY player must own a SPELL TOWER. Destroy all player buildings.
-Blood Magic,1,spell,ANY player must own a SPELL TOWER. Switch health with another player.
-Nullify,1,spell,ANY player must own a SPELL TOWER. Block ANY card played at ANY time.
-Barrier,1,spell,ANY player must own a SPELL TOWER. You cannot be targeted until your next turn.
+Fort,2,building,Choose to discard when damaged and you will not lose health.
+Barrier,1,spell,ANY player must own a SPELL TOWER to use this. You cannot be targeted until your next turn.
+Black Hole,1,spell,ANY player must own a SPELL TOWER to use this. Destroy ALL player buildings.
+Blood Magic,1,spell,ANY player must own a SPELL TOWER to use this. Switch health with another player.
+Nullify,1,spell,ANY player must own a SPELL TOWER to use this. Block ANY card played at ANY time.
 Oracle,1,oracle,This must be the last card in the deck. Reveal all player roles.
 The Crown,1,role,Eliminate all who oppose you.
 Usurper,1,role,Execute The Crown.
