@@ -1,41 +1,40 @@
-# Oracle Rulebook
+# Oracle Rules
 
-## Summary of Gameplay
+## How to Play
 
-Each player will be given a role card at random. You can never show your role card to another player, but this does not stop you from claiming to be a role.
+Each player is given a role card at random. You can never show your role card to another player, but you can claim to be any role.
 
-To win the game, you must target and help kill whoever is specified on your role card. This is done through using offensive cards (red text).
+To win the game, the targets specified on your role card must be killed. This is done through using your cards to damage (or help!) other players. You are killed when your health reaches zero, and cannot win when killed.
 
-You may use a DEFEND card to block an offensive card played on ANYONE, even if it is not your turn.
 
-An ATTACK card is the most common offensive card, but these are limited to being used once per turn. You can increase your attack limit through owning buildings.
+<b>Only one player can win.</b>
 
-Buildings are a type of card (black text), which when placed in front of you, will give you a buff until removed by some card.
+Most importantly, be sure to pay as much attention to stopping other players from killing their targets.
 
-You may use all cards (excluding ATTACK) any number of times on any player during your turn. After your turn, you must pick up until you have 5 cards.
+During your turn, you can use any number of cards on any player. The only exception is the ATTACK card, which is limited to being used once per turn. Building cards can be placed in front of you to increase this limit along with other special perks.
+
+After your turn, you must pick up from the pile until you reach your base hand limit of 5 cards.
+
+Once the pile is exhausted, simply reshuffle and continue play.
 
 <br>
 
-## Setting Up
+## Setup
 
-Each player is handed a health bar card and their role card at random.
+Each player is handed a health bar card and a role card at random. You can use your role card to keep track of your health by sliding it over the hearts.
 
-Shuffle and pile the rest of the cards into the centre for players to pick up from.
+Shuffle and pile the rest of the cards into the centre. Players start with 5 cards.
 
-Players start with 5 health and 5 cards each.
-
-The Crown role reveals themself and wears the party hat.
-
-The Crown takes the first turn. Turns are taken clockwise.
+The Crown must reveal their role and takes the first turn. Turns are then taken clockwise.
 
 <br>
 
 ## Player Roles
 
-| PLAYERS | ROLES | WIN CONDITION |
+| MIN. PLAYERS | ROLES | WIN CONDITION |
 |---------|-------|---------------|
-| 2 | The Crown | All who oppose you are killed.
-| 2 | Usurper | The Crown is killed.
-| 3 | Demon Lord | All other players are killed.
-| 4 | Knight | Protect The Crown. Win if The Crown wins (even if you are dead).
-| 5 | Cultist | The Crown and Knight are killed.
+| 2 | The Crown | Eliminate all who oppose you.
+| 2 | Demon Lord | Exterminate all other players.
+| 3 | Usurper | Execute The Crown
+| 4 | Knight | Protect The Crown (even if it kills you!)
+| 5 | Cultist | Slay The Crown and Knight.
