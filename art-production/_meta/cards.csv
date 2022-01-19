@@ -11,11 +11,11 @@ Card Back Health Bar,5,card-back-health-bar,misc,
 Card Back Oracle,1,card-back-oracle,misc,
 Card Back Role,5,card-back-role,misc,
 Cultist,1,cultist,role,Slay The Crown and Knight.
-Defend,10,defend,utility,Block an offensive card. You can use this even if you’re not the target.
+Defend,10,defend,utility,Block an offensive card used against any player.
 Demon Lord,1,demon-lord,role,Exterminate all other players.
 Destroy,4,destroy,offensive,Pick a building. Remove ALL of them from a player.
 Farm,3,farm,building,Increase your hand size by 1.
-Fort,2,fort,building,Choose to discard when damaged and you will not lose health.
+Fort,2,fort,building,Discard to block all damage from a card.
 Goody Bag,2,goody-bag,utility,Draw 2 cards. Ignore hand size.
 Goody Bag+,1,goody-bag-plus,utility,Draw 3 cards. Ignore hand size.
 Health Bar,5,health-bar,misc,
