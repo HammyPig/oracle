@@ -1,0 +1,30 @@
+name,count,filename,back,type,description
+Attack,15,attack,-,offensive,Deal 1 damage to a player.
+Backstab,2,backstab,-,offensive,Deal 1 damage to a player. Ignore attack limit.
+Barracks,4,barracks,-,building,Increase your attack limit by 1.
+Barrier,1,barrier,-,spell,A SPELL TOWER must be present to use this. You cannot be targeted until your next turn.
+Black Hole,1,black-hole,-,spell,A SPELL TOWER must be present to use this. Destroy ALL player buildings.
+Blood Magic,1,blood-magic,-,spell,A SPELL TOWER must be present to use this. Switch health with another player.
+Capture,3,capture,-,offensive,Steal another player’s building.
+Card Back,56,card-back,-,misc,
+Card Back Health Bar,5,card-back-health-bar,-,misc,
+Card Back Oracle,1,card-back-oracle,-,misc,
+Card Back Role,5,card-back-role,-,misc,
+Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
+Defend,10,defend,-,utility,Block an offensive card used against any player.
+Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
+Destroy,4,destroy,-,offensive,Pick a building. Remove ALL of them from a player.
+Farm,3,farm,-,building,Increase your hand size by 1.
+Fort,2,fort,-,building,Discard to block all damage from a card.
+Goody Bag,2,goody-bag,-,utility,Draw 2 cards. Ignore hand size.
+Goody Bag+,1,goody-bag-plus,-,utility,Draw 3 cards. Ignore hand size.
+Health Bar,5,health-bar,card-back-health-bar,misc,
+Heist,1,heist,-,offensive,Switch hands with another player.
+Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
+Nullify,1,nullify,-,spell,A SPELL TOWER must be present to use this. Block ANY card played at ANY time.
+Oracle,1,oracle,card-back-oracle,oracle,This must be the last card in the deck. Reveal all player roles.
+Sabotage,1,sabotage,-,offensive,Discard 2 cards from a player’s hand.
+Spell Tower,3,spell-tower,-,building,ALL players can use spells. Increase your ATTACK damage by 1.
+Spy,1,spy,-,offensive,Reveal another player’s hand to you.
+The Crown,1,the-crown,card-back-role,role,Eliminate all who oppose you.
+Usurper,1,usurper,card-back-role,role,Execute The Crown.
