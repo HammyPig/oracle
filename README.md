@@ -10,21 +10,21 @@ It aims to be a game that can be easily picked up among a group of friends or st
 
 ### How to Play
 
-Each player is given a random role card. You can never show your role card to another player, but you can claim to be any role.
+Each player is given a random role card. You can never show it to another player, but you can claim to be any role.
 
 To win the game, the targets specified on your role card must be killed. This is done through using your cards to damage other players.
 
-When your health reaches zero, your are killed and can no longer win.
-
 During your turn, you can use any number of cards on any player. The only exception is the ATTACK card, which is limited to being used once per turn.
 
-Buildings are a type of card which give you special perks when placed in front of you.
+The DEFEND card can be used outside of your turn to help you or other players.
+
+Building cards give you special perks when placed in front of you.
 
 After your turn, pick up from the pile until you reach your base hand limit of 5 cards.
 
 Once the pile is exhausted, simply reshuffle and continue play.
 
-<b>Only one player can win.</b> Most importantly, be sure to pay as much attention to stopping other players from killing their targets. The DEFEND card can be used outside of your turn to help other players.
+<b>Only one player can win.</b> Most importantly, be sure to pay as much attention to stopping other players from killing their targets.
 
 <br>
 
