@@ -6,12 +6,12 @@ Barrier,1,barrier,-,spell,A SPELL TOWER must be present to use this. You cannot 
 Black Hole,1,black-hole,-,spell,A SPELL TOWER must be present to use this. Destroy ALL player buildings.
 Blood Magic,1,blood-magic,-,spell,A SPELL TOWER must be present to use this. Switch health with another player.
 Capture,3,capture,-,offensive,Steal another player’s building.
-Card Back,56,card-back,-,misc,
+Card Back,55,card-back,-,misc,
 Card Back Health Bar,5,card-back-health-bar,-,misc,
 Card Back Oracle,1,card-back-oracle,-,misc,
 Card Back Role,5,card-back-role,-,misc,
 Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
-Defend,10,defend,-,utility,Block an offensive card used against any player.
+Defend,9,defend,-,utility,Block an offensive card used against any player.
 Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
 Destroy,4,destroy,-,offensive,Pick a building. Remove ALL of them from a player.
 Farm,3,farm,-,building,Increase your hand size by 1.
