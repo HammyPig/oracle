@@ -1,0 +1,73 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage{nopageno}
+\usepackage[a4paper, portrait, margin=9.75mm, top=15.15mm]{geometry}
+
+\newcommand{\cards}[2]
+{%
+    \newcount\i \i=#2 \loop
+        \includegraphics{_pdfs/#1.pdf}
+        \hspace{-3.4pt}
+        \advance \i -1
+    \ifnum \i>0 \repeat
+    \hspace{-4.5pt}
+}
+
+\begin{document}
+\setlength{\parindent}{0pt}
+%
+% offensive cards
+%
+\cards{attack}{15}
+\cards{destroy}{4}
+\cards{capture}{3}
+\cards{backstab}{2}
+\cards{heist}{1}
+\cards{sabotage}{1}
+\cards{spy}{1}
+%
+% utility cards
+%
+\cards{defend}{9}
+\cards{goody-bag}{2}
+\cards{goody-bag-plus}{1}
+%
+% building cards
+%
+\cards{barracks}{4}
+\cards{farm}{3}
+\cards{spell-tower}{3}
+\cards{fort}{2}
+%
+% spell cards
+%
+\cards{barrier}{1}
+\cards{black-hole}{1}
+\cards{blood-magic}{1}
+\cards{nullify}{1}
+%
+% role cards
+%
+\cards{the-crown}{1}
+\cards{demon-lord}{1}
+\cards{usurper}{1}
+\cards{knight}{1}
+\cards{cultist}{1}
+%
+% misc cards
+%
+\cards{health-bar}{5}
+%
+% oracle
+%
+\cards{oracle}{1}
+%
+% card backs
+%
+\cards{card-back}{55}
+\cards{card-back-role}{5}
+\cards{card-back-health-bar}{5}
+\cards{card-back-oracle}{1}
+%
+\end{document}
