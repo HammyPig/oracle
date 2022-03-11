@@ -2,7 +2,7 @@ name,count,filename,back,type,description
 Attack,15,attack,-,offensive,Deal 1 damage to a player.
 Backstab,2,backstab,-,offensive,Deal 1 damage to a player. Ignore attack limit.
 Capture,3,capture,-,offensive,Steal another player’s building.
-Destroy,4,destroy,-,offensive,Pick a building. Remove ALL of them from a player.
+Destroy,3,destroy,-,offensive,Pick a building. Remove ALL of them from a player.
 Heist,1,heist,-,offensive,Switch hands with another player.
 Sabotage,1,sabotage,-,offensive,Discard 2 cards from a player’s hand.
 Spy,1,spy,-,offensive,Reveal another player’s hand to you.
