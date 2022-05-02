@@ -17,14 +17,14 @@ Barrier,1,barrier,-,spell,A SPELL TOWER must be present to use this. You cannot 
 Black Hole,1,black-hole,-,spell,A SPELL TOWER must be present to use this. Destroy ALL player buildings.
 Blood Magic,1,blood-magic,-,spell,A SPELL TOWER must be present to use this. Switch health with another player.
 Nullify,1,nullify,-,spell,A SPELL TOWER must be present to use this. Block ANY card played at ANY time.
-Oracle,1,oracle,card-back-oracle,oracle,This must be the last card in the deck. Reveal all player roles.
 Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
 Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
 Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
 The Crown,1,the-crown,card-back-role,role,Eliminate all who oppose you.
 Usurper,1,usurper,card-back-role,role,Execute The Crown.
-Card Back,55,card-back,-,misc,
-Card Back Health Bar,5,card-back-health-bar,-,misc,
-Card Back Oracle,1,card-back-oracle,-,misc,
-Card Back Role,5,card-back-role,-,misc,
 Health Bar,5,health-bar,card-back-health-bar,misc,
+Oracle,1,oracle,card-back-oracle,oracle,This must be the last card in the deck. Reveal all player roles.
+Card Back,55,card-back,n/a,back,
+Card Back Health Bar,5,card-back-health-bar,n/a,back,
+Card Back Oracle,1,card-back-oracle,n/a,back,
+Card Back Role,5,card-back-role,n/a,back,
