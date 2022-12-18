@@ -36,7 +36,7 @@ for row in rows:
         merger.append(front_pdf_path)
         merger.append(back_pdf_path)
 
-merger.write("front-back.pdf")
+merger.write("front-backs.pdf")
 merger.close()
 
 print("Success!")
