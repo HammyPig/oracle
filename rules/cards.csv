@@ -4,7 +4,7 @@ Backstab,2,backstab,-,offensive,Deal 1 damage to a player. Ignore attack limit.
 Capture,3,capture,-,offensive,Steal another player’s building.
 Destroy,3,destroy,-,offensive,Pick a building. Remove ALL of them from a player.
 Heist,1,heist,-,offensive,Switch hands with another player.
-Sabotage,1,sabotage,-,offensive,Discard 2 cards from a player’s hand.
+Sabotage,1,sabotage,-,offensive,Discard 2 random cards from a player’s hand.
 Spy,1,spy,-,offensive,Reveal another player’s hand to you.
 Defend,9,defend,-,utility,Block an offensive card used against any player.
 Goody Bag,2,goody-bag,-,utility,Draw 2 cards. Ignore hand size.
