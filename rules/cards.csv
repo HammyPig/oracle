@@ -24,7 +24,3 @@ The Crown,1,the-crown,card-back-role,role,Eliminate all who oppose you.
 Usurper,1,usurper,card-back-role,role,Execute The Crown.
 Health Bar,5,health-bar,card-back-health-bar,misc,
 Oracle,1,oracle,card-back-oracle,oracle,This must be the last card in the deck. Reveal all player roles.
-Card Back,55,card-back,n/a,back,
-Card Back Health Bar,5,card-back-health-bar,n/a,back,
-Card Back Oracle,1,card-back-oracle,n/a,back,
-Card Back Role,5,card-back-role,n/a,back,
