@@ -5,3 +5,6 @@
 *.files
 *.log
 *.gz
+
+# ignore resources folder
+resources/
