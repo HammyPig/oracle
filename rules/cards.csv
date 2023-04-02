@@ -23,4 +23,4 @@ Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
 The Crown,1,the-crown,card-back-role,role,Eliminate all who oppose you.
 Usurper,1,usurper,card-back-role,role,Execute The Crown.
 Health Bar,5,health-bar,card-back-health-bar,misc,
-Oracle,1,oracle,card-back-oracle,oracle,This must be the last card in the deck. Reveal all player roles.
+Oracle,1,oracle,card-back-oracle,oracle,Reveal another player's role card to you. (Setup: Last card in the deck)
