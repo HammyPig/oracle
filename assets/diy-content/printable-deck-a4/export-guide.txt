@@ -1,0 +1,5 @@
+Preset: PDF/X-1a:2003
+Rasterize: Unsupported properties -> Everything
+Downsample images Above DPI: 375 -> 300
+Allow JPEG compression: On -> Off
+Embed fonts: All Fonts -> Text as Curves
