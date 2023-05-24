@@ -8,3 +8,6 @@
 
 # ignore resources folder
 resources/
+
+# ignore archive folders
+archive/
