@@ -11,3 +11,6 @@ resources/
 
 # ignore archive folders
 archive/
+
+# ignore zip files
+*.zip
