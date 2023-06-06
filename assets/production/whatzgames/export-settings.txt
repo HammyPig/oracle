@@ -1,0 +1,11 @@
+3mm Bleed, 3mm Margin for text and important elements
+Black text and fine black lines and barcodes should be C: 0, M: 0, Y: 0, K: 100
+
+From PDF (for print)
+Rasterize: Unsupported properties -> Everything
+Above DPI: 375 -> 300
+Allow JPEG compression: Yes -> No
+Compatibility: PDF 1.7 (Acrobat 8) -> PDF/X-1a:2003
+Color space: As document -> CMYK
+ICC Profile: Use document profile -> U.S. Web Coated (SWOP) v2
+Embed fonts: All Fonts -> Text as Curves
