@@ -7,5 +7,5 @@ Above DPI: 375 -> 300
 Allow JPEG compression: Yes -> No
 Compatibility: PDF 1.7 (Acrobat 8) -> PDF/X-1a:2003
 Color space: As document -> CMYK
-ICC Profile: Use document profile -> U.S. Web Coated (SWOP) v2
+ICC Profile: Use document profile -> Japan Color 2001 Coated
 Embed fonts: All Fonts -> Text as Curves
