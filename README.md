@@ -32,7 +32,9 @@ Keep track of your health by sliding your role card over your health bar.
 
 When the pile runs out, reshuffle the deck and continue play.
 
-When eliminated, you can no longer win and must reveal your role.
+Eliminated players can no longer win and must reveal their role.
+
+The first player to complete their objective wins the game.
 
 Only one player can win, except The Crown and Knight.
 
