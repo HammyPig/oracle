@@ -22,7 +22,7 @@ Chosen,1,chosen,card-back-role,role,Defeat the Demon Lord.
 Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
 Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
 Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
-The Crown,1,the-crown,card-back-role,role,Eliminate all who oppose you.
+The Crown,1,the-crown,card-back-role,role,Eliminate all who do not serve you.
 Usurper,1,usurper,card-back-role,role,Execute The Crown.
 Health Bar,5,health-bar,card-back-health-bar,misc,
 Oracle,1,oracle,card-back-oracle,oracle,Reveal another player's role card. (Setup: Last card in the deck)
