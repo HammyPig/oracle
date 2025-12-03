@@ -17,6 +17,7 @@ Barrier,1,barrier,-,spell,A SPELL TOWER must be present to use this. You cannot 
 Black Hole,1,black-hole,-,spell,A SPELL TOWER must be present to use this. Destroy ALL player buildings.
 Blood Magic,1,blood-magic,-,spell,A SPELL TOWER must be present to use this. Switch health with another player.
 Nullify,1,nullify,-,spell,A SPELL TOWER must be present to use this. Block ANY card played at ANY time.
+Chosen,1,chosen,card-back-role,role,Defeat the Demon Lord.
 Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
 Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
 Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
