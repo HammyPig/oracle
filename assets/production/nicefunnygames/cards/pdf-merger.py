@@ -1,47 +1,28 @@
 import os
 import sys
+import csv
 from PyPDF2 import PdfMerger
 
+# Get card combinations from CSV
+card_combinations = {}
 
-card_combinations = {
-    "card-back": {
-        "attack": 15,
-        "backstab": 2,
-        "capture": 3,
-        "destroy": 3,
-        "heist": 1,
-        "sabotage": 1,
-        "spy": 1,
-        "defend": 9,
-        "goody-bag": 2,
-        "goody-bag-plus": 1,
-        "barracks": 4,
-        "farm": 3,
-        "fort": 2,
-        "spell-tower": 3,
-        "barrier": 1,
-        "black-hole": 1,
-        "blood-magic": 1,
-        "nullify": 1
-    },
+csv_path = "../../../../../rules/cards.csv"
+with open(csv_path, "r") as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        back = row["back"]
+        if back == "-":
+            back = "card-back"
+        
+        filename = row["filename"]
+        count = int(row["count"])
+        
+        if back not in card_combinations:
+            card_combinations[back] = {}
+        
+        card_combinations[back][filename] = count
 
-    "card-back-role": {
-        "cultist": 1,
-        "demon-lord": 1,
-        "knight": 1,
-        "the-crown": 1,
-        "usurper": 1
-    },
-
-    "card-back-health-bar": {
-        "health-bar": 5
-    },
-
-    "card-back-oracle": {
-        "oracle": 1
-    }
-}
-
+# Generate PDFs
 for card_back, card_fronts in card_combinations.items():
     merger = PdfMerger()
 
