@@ -6,9 +6,6 @@
 *.log
 *.gz
 
-# ignore resources folders
-resources/
-
 # ignore archive folders
 archive/
 
