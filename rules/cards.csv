@@ -19,10 +19,10 @@ Black Hole,1,black-hole,-,spell,A SPELL TOWER must be present to use this. Destr
 Blood Magic,1,blood-magic,-,spell,A SPELL TOWER must be present to use this. Switch health with another player.
 Nullify,1,nullify,-,spell,A SPELL TOWER must be present to use this. Block ANY card played at ANY time.
 Chosen,1,chosen,card-back-role,role,Defeat the Demon Lord.
-Cultist,1,cultist,card-back-role,role,Slay The Crown and Knight.
+Cultist,1,cultist,card-back-role,role,Slay the Crown and Knight.
 Demon Lord,1,demon-lord,card-back-role,role,Exterminate all other players.
-Knight,1,knight,card-back-role,role,Protect The Crown (even if it kills you!)
-The Crown,1,the-crown,card-back-role,role,Eliminate all threats.
-Usurper,1,usurper,card-back-role,role,Execute The Crown.
+Knight,1,knight,card-back-role,role,Protect the Crown (even if it kills you!)
+Crown,1,crown,card-back-role,role,Eliminate all threats.
+Usurper,1,usurper,card-back-role,role,Execute the Crown.
 Health Bar,5,health-bar,card-back-health-bar,misc,
 Oracle,1,oracle,card-back-oracle,oracle,Reveal another player's role card. (Setup: Last card in the deck)
